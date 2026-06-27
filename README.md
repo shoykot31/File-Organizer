@@ -69,14 +69,14 @@ Only supported file types are moved. All other files remain unchanged.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/shoykot31/python-file-organizer.git
+git clone https://github.com/shoykot31/File-Organizer.git
 ```
 
 
 ### Navigate into the project
 
 ```bash
-cd file-organizer
+cd File-Organizer
 ```
 
 ### Run the script
