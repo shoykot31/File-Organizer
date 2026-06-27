@@ -82,7 +82,7 @@ cd File-Organizer
 ### Run the script
 
 ```bash
-python FileOrganizer.py
+python File Organizer.py
 ```
 
 Or import the function into another Python script:
